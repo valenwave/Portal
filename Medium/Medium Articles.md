@@ -1,7 +1,3 @@
-# Published
-* [Published](https://medium.com/me/stories/public)
-* [Drafts](https://medium.com/me/stories/drafts)
-
 # Articles
 * [GitKraken Glo Automations](https://medium.com/@dao.phi/gitkraken-glo-automation-c6b9081a2fd5)
 * [Markdown Examples](https://medium.com/@dao.phi/markdown-examples-fe110ec322ae)
