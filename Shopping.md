@@ -3,6 +3,7 @@
 
 # Technology
 * [Batteries+](https://www.batteriesplus.com/)
+* [Linksys](https://www.linksys.com/us/)
 * [Mophie](http://www.mophie.com/)
 * [MyTechKey](https://www.mytechkey.com/)
 * [Newegg](https://www.newegg.com/)
