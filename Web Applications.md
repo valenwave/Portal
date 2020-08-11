@@ -4,3 +4,4 @@
 
 # Other
 * [Dillinger](https://dillinger.io/) - Markdown Compiler
+* [Reseller Club](https://www.resellerclub.com/shared-hosting)
